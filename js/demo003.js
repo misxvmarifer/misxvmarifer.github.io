@@ -256,6 +256,14 @@ sr.reveal('#textolibre', {
 		
 
 	});
+		sr.reveal('.tesperoTexto', {
+		duration: 2500, //tiempo
+		delay:700,
+		origin: 'bottom', //origen
+		distance: '200px', //distancia
+		
+
+	});
 	sr.reveal('.ceremoniaReligiosa', {
 		duration: 1500, //tiempo
 		///delay:1000,
