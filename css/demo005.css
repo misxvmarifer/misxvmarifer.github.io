@@ -364,7 +364,7 @@ font-family: 'Tangerine', cursive;
 }
 }
 .simply-section {
-  background: #FFE7E3;
+  background: #F7E9F6;
   width: 120px;
   height: 80px;
   margin: 0 50px;
@@ -491,7 +491,7 @@ box-shadow: 0px 0px 30px -4px rgba(0,0,0,0.75);
     font-family: 'Cantata One', serif;
   font-size: 13px;
   color:#534A3B;
-  background-color: #FFE7E3; 
+  background-color: #F7E9F6; 
 height:40px; 
 display:flex;
 justify-content: center; 
@@ -505,7 +505,7 @@ letter-spacing: 3px;
     font-family: 'Cantata One', serif;
   font-size: 13px;
   color:#534A3B;
-  background-color: #FFE7E3; 
+  background-color: #F7E9F6; 
 height:40px; 
 display:flex;
 justify-content: center; 
@@ -600,11 +600,13 @@ font-family: 'Cantata One', serif;
   font-size:16px;
 }
 .tesperoTexto{
-  text-shadow: 0px 1px 10px rgba(0,0,0,0.4); 
+  
   margin-top: -150px; 
    
-  font-family: 'Playfair Display', serif; 
-  color:#000; margin-bottom:30px; font-size: 13px;
+  font-family: "Bellefair", serif;
+  font-weight: 400;
+  font-style: normal;
+  color:#000; margin-bottom:30px; font-size: 14px;
 
 }
 .nompadres{
@@ -650,6 +652,11 @@ text-shadow: 0px 0px 0px;
 .iconoLluviaSobres{
   font-size: 40px; 
   color:#FFE7E3;
+
+}
+.iconoLluviaSobres2{
+  font-size: 40px; 
+  color:#6D425E;
 
 }
 @media only screen and (max-width: 380px) and (min-width: 320px)  {
@@ -738,11 +745,13 @@ text-shadow: 0px 0px 0px;
   font-size:15px;
 }
 .tesperoTexto{
-  text-shadow: 0px 1px 10px rgba(0,0,0,0.4); 
+  
   margin-top: -150px; 
    
-  font-family: 'Playfair Display', serif; 
-  color:#000; margin-bottom:30px; font-size: 13px;
+  font-family: "Bellefair", serif;
+  font-weight: 400;
+  font-style: normal; 
+  color:#000; margin-bottom:30px; font-size: 14px;
 }
 .dondeyCuando{
 font-family: 'Cantata One', serif;
@@ -781,7 +790,7 @@ box-shadow: 0px 0px 30px -4px rgba(0,0,0,0.75);
     font-family: 'Cantata One', serif;
   font-size: 13px;
   color:#534A3B;
-  background-color: #FFE7E3; 
+  background-color: #F7E9F6; 
 height:40px; 
 display:flex;
 justify-content: center; 
@@ -795,7 +804,7 @@ letter-spacing: 3px;
     font-family: 'Cantata One', serif;
   font-size: 13px;
   color:#534A3B;
-  background-color: #FFE7E3; 
+  background-color: #F7E9F6; 
 height:40px; 
 display:flex;
 justify-content: center; 
@@ -830,11 +839,13 @@ font-family: 'Cantata One', serif;
   font-size:15px;
 }
 .tesperoTexto{
-  text-shadow: 0px 1px 10px rgba(0,0,0,0.4); 
+  
   margin-top: -150px; 
    
-  font-family: 'Playfair Display', serif; 
-  color:#000; margin-bottom:30px; font-size: 13px;
+  font-family: "Bellefair", serif;
+  font-weight: 400;
+  font-style: normal; 
+  color:#000; margin-bottom:30px; font-size: 14px;
 }
 }
 @media (max-width:320px){
@@ -876,7 +887,7 @@ box-shadow: 0px 0px 30px -4px rgba(0,0,0,0.75);
     font-family: 'Cantata One', serif;
   font-size: 10px;
   color:#C8B18F;
-  background-color: #FFE7E3; 
+  background-color: #F7E9F6; 
 height:40px; 
 display:flex;
 justify-content: center; 
@@ -890,7 +901,7 @@ letter-spacing: 1px;
     font-family: 'Cantata One', serif;
   font-size: 10px;
   color:#C8B18F;
-  background-color: #FFE7E3; 
+  background-color: #F7E9F6; 
 height:40px; 
 display:flex;
 justify-content: center; 
@@ -932,11 +943,13 @@ text-shadow: 0px 1px 10px rgba(0,0,0,0.4);
   font-size:13px;
 }
 .tesperoTexto{
-  text-shadow: 0px 1px 10px rgba(0,0,0,0.4); 
+  
   margin-top: -150px; 
    
-  font-family: 'Playfair Display', serif; 
-  color:#000; margin-bottom:30px; font-size: 13px;
+  font-family: "Bellefair", serif;
+  font-weight: 400;
+  font-style: normal;
+  color:#000; margin-bottom:30px; font-size: 14px;
 }
 .nompadres{
   font-family: 'Updock', cursive;
@@ -1002,6 +1015,11 @@ text-shadow: 0px 0px 0px;
 .iconoLluviaSobres{
   font-size: 30px; 
   color:#C8B18F;
+
+}
+.iconoLluviaSobres2{
+  font-size: 40px; 
+  color:#6D425E;
 
 }
 }
@@ -1233,7 +1251,7 @@ border-top-left-radius: 30px 30px;
   border-left: 2px solid #534A3B;
   
   border-color: #6D425E;
-  background-color: #FFE7E3;
+  background-color: #F7E9F6;
   color:#C8B18F;
   
   text-align: center;
@@ -1407,10 +1425,10 @@ box-shadow: 10px 25px 25px rgba(0,0,0,0.5);
   border-bottom: 0px solid ;
   border-right: 0px solid ;
   border-left: 0px solid ;
-  border-color: #F6D1C9;
+  border-color: #6D425E;
   text-decoration: none;
-  color:#534A3B;
-  background-color: #F6D1C9; 
+  color:#fff;
+  background-color: #6D425E; 
   font-family: 'Arapey', serif; 
   font-size: 15px;
    height: 45px;
@@ -1425,12 +1443,12 @@ box-shadow: 10px 25px 25px rgba(0,0,0,0.5);
   border-bottom: 2px solid ;
   border-right: 2px solid ;
   border-left: 2px solid ;
-  border-color: #F6D1C9;
+  border-color: #fff;
   text-decoration: none;
   background-color: transparent; 
   font-family: 'Arapey', serif; 
   font-size: 15px;
-  color:#F6D1C9;
+  color:#fff;
   height: 45px;
 }
 .btnComoLlegar{
@@ -2117,7 +2135,10 @@ margin-bottom:;}
 
 .form-register {
   width: 100%;
-  background: #8DA8B4 ;
+  background-size: cover; 
+background-image: url(../img/fondosistema1.jpeg); 
+position: relative; 
+background-attachment: fixed;
   padding: 30px;
   margin: auto;
   margin-top:;
@@ -2134,8 +2155,8 @@ margin-bottom:;}
   margin-bottom: 16px;
   border-top: 0px solid #E5E5E5;
   border-right: 0px solid #E5E5E5;
-  border-bottom: 3px solid #F6D1C9;
-  border-left: 3px solid #F6D1C9;
+  border-bottom: 3px solid #6D425E;
+  border-left: 3px solid #6D425E;
   
 font-family: 'calibri', serif;
   font-size: 18px;
@@ -2179,8 +2200,8 @@ font-family: 'calibri', serif;
   font-size: 20px;
   border-top: 0px solid #E5E5E5;
   border-right: 0px solid #E5E5E5;
-  border-bottom: 3px solid #F6D1C9;
-  border-left: 3px solid #F6D1C9;
+  border-bottom: 3px solid #6D425E;
+  border-left: 3px solid #6D425E;
 }
 
 .custom-select2 select {
@@ -2370,7 +2391,7 @@ audio::-webkit-media-controls-panel {
 
 }
 audio::-webkit-media-controls-mute-button {
-  background-color: #FFE7E3;
+  background-color: #F7E9F6;
   border-radius: 50%;
 }
 audio::-webkit-media-controls-mute-button:hover {
@@ -2378,7 +2399,7 @@ audio::-webkit-media-controls-mute-button:hover {
   border-radius: 50%;
 }
 audio::-webkit-media-controls-play-button{
-  background-color: #FFE7E3;
+  background-color: #F7E9F6;
   border-radius: 50%;
   color:white;
 }
@@ -2594,7 +2615,7 @@ border-color: #6D425E;
   animation-timing-function: ease-out;
 }
 .flecha span{
-  background-color: #FFE7E3;
+  background-color: #F7E9F6;
   display: block;
   margin-top: -4px;
   height: 15px;
